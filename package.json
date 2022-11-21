@@ -1,6 +1,6 @@
 {
   "name": "@applaud/mini-css-extract-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extracts CSS into separate files",
   "license": "MIT",
   "repository": "https://github.com/Applaud-devpack/mini-css-extract-plugin",
@@ -41,7 +41,7 @@
   ],
   "dependencies": {
     "schema-utils": "^1.0.0",
-    "loader-utils": "^1.1.0",
+    "loader-utils": "^2.0.3",
     "webpack-sources": "^1.1.0"
   },
   "devDependencies": {
